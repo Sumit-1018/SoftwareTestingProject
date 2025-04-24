@@ -1,4 +1,4 @@
-**🧪 Automated Website Testing | Mamaearth & Bikewale**
+# **🧪 Automated Website Testing | Mamaearth & Bikewale**
 
 This project showcases an end-to-end automated testing solution for two popular e-commerce platforms: Mamaearth (beauty and wellness products) and Bikewale (bike information and purchase assistance). The automation scripts are designed to simulate real-world user actions including product search, cart updates, checkout, and payment simulation — all tested efficiently with reporting and logging support.
 
